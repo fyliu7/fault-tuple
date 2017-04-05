@@ -4,10 +4,7 @@
 //# 103 inverters
 //# 550 gates (350 ANDs + 0 NANDs + 200 ORs + 0 NORs)
 
-module s1488(GND,VDD,CK,CLR,v0,v1,v13_D_10,v13_D_11,v13_D_12,v13_D_13,v13_D_14,
-  v13_D_15,
-  v13_D_16,v13_D_17,v13_D_18,v13_D_19,v13_D_20,v13_D_21,v13_D_22,v13_D_23,
-  v13_D_24,v13_D_6,v13_D_7,v13_D_8,v13_D_9,v2,v3,v4,v5,v6);
+module s1488(GND,VDD,CK,CLR,v0,v1,v13_D_10,v13_D_11,v13_D_12,v13_D_13,v13_D_14,v13_D_15,v13_D_16,v13_D_17,v13_D_18,v13_D_19,v13_D_20,v13_D_21,v13_D_22,v13_D_23,v13_D_24,v13_D_6,v13_D_7,v13_D_8,v13_D_9,v2,v3,v4,v5,v6);
 input GND,VDD,CK,CLR,v6,v5,v4,v3,v2,v1,v0;
 output v13_D_20,v13_D_21,v13_D_16,v13_D_22,v13_D_19,v13_D_18,v13_D_11,v13_D_23,
   v13_D_6,v13_D_15,v13_D_9,v13_D_10,v13_D_8,v13_D_24,v13_D_14,v13_D_7,v13_D_17,
