@@ -1,0 +1,7 @@
+#wire count: 17
+#coupling wire: 3
+#percentage: 17.6471
+
+G15 G1
+G16 G3
+G11 G7
